@@ -1,0 +1,174 @@
+body {
+  padding:0px;
+  margin:0px;
+}
+
+.main {
+  height:150px;
+  background-color:#c79520;
+}
+
+.section-a {
+  padding:0px;
+  margin:auto;
+  height:150px; /* 170 */
+  width:600px;
+  overflow:hidden;
+  background-color:;
+}
+
+.how-to-buy {
+  width:200px;
+  height:130px;
+  background-color:;
+  overflow:hidden;
+  float:left;
+}
+
+.how-to-buy a {
+  text-decoration:none;
+  color:white;
+
+}
+
+.how-to-buy h1 {
+  font-size:30px;
+  margin-left:15px;
+  margin-bottom:5px;
+  margin-top:0px;
+  padding:0px;
+}
+
+.how-to-buy p {
+  margin-left:15px;
+  margin-top:5px;
+  margin-bottom:0px;
+  padding:0px;
+
+}
+
+.about-us {
+  width:200px;
+  height:200px;
+  background-color:;
+  overflow:hidden;
+  float:left;
+}
+
+.about-us h1 {
+  font-size:30px;
+  margin-left:25px;
+  margin-bottom:5px;
+  margin-top:0px;
+  padding:0px;
+
+}
+
+.about-us p {
+  margin-left:57px;
+  margin-right:0px;
+  margin-top:5px;
+  margin-bottom:0px;
+  padding:0px;
+}
+
+.section-a img {
+  width:25px;
+  height:25px;
+  padding:0px;
+  margin-left:18px;
+  margin-right:0px;
+  margin-top:0px;
+  margin-bottom:0px;
+
+}
+
+.about-us a {
+  text-decoration:none;
+  color:white;
+}
+
+.instagram {
+  position:relative;
+  top:4px;
+}
+
+.facebook {
+  position:relative;
+  bottom:10px;
+}
+
+.twitter {
+  position:relative;
+  bottom:20px;
+}
+
+
+.pinsta {
+  position:relative;
+  bottom:25px;
+}
+
+.pface {
+  position:relative;
+  bottom:38px;
+}
+
+.ptwit {
+  position:relative;
+  bottom:49px;
+}
+
+.support {
+  width:200px;
+  height:200px;
+  background-color:;
+  float:left;
+}
+
+.support h1 {
+  font-size:30px;
+  margin-left:17px;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-right:0px;
+  padding:0px;
+
+}
+
+.support a {
+  text-decoration:none;
+  color:white;
+}
+
+.support p {
+  margin-top:7px;
+  margin-left:18px;
+  margin-bottom:0px;
+  padding:0px;
+}
+
+.main2 {
+  height:50px;
+  background-color:#ab801b;
+}
+
+.copyright {
+  width:550px;
+  background-color:;
+  margin:auto;
+}
+
+.copyright p {
+  padding:0px;
+  margin:0px;
+  position:relative;
+  top:15px;
+  font-style:italic;
+  font-size:15px;
+}
+
+.copyright a {
+  text-decoration:none;
+
+}
